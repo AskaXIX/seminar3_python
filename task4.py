@@ -1,3 +1,5 @@
+# Требуется найти в массиве list_1 самый близкий по величине элемент к заданному числу k и вывести его.
+
 from random import randint
 
 list_1 = [randint(0, 15) for i in range(1, 7)]
